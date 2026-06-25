@@ -18,8 +18,7 @@ WorkHive's overall **churn rate stood at 16.58%** (91 out of 549 members), well 
 
 ## Dashboard Preview
 
-> 📌 Dashboard in progress — will be updated shortly.
-
+ ![WorkHive Dashboard Preview](WORKHIVE_DASHBOARD_SS.jpeg)
 ---
 
 ## Key Insights
